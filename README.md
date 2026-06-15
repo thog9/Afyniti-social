@@ -125,7 +125,7 @@ Before running the scripts, ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-Afyniti-bot/
+Afyniti-social/
 ├── main.py                 # Central menu system
 ├── pvkey.txt               # EVM private keys
 ├── proxies.txt             # Proxies (optional)
